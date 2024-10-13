@@ -1,0 +1,8 @@
+.order-bg{
+    background-image: linear-gradient(to right, rgba(255, 255, 255, .6), rgba(255, 255, 255, .6)),url(../../assets/image/deliveryBg.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.bg{
+   border-color:  rgba(240, 240, 102, 0.59);
+}

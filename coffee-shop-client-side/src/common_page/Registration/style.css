@@ -1,0 +1,11 @@
+.form-bg{
+    background-image: linear-gradient(to right, rgba(255, 255, 255, .6), rgba(255, 255, 255, .6)),url(../../assets/image/registration.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.animition{
+    background-image: url(../../assets/image/more/11.png);
+    background-position: center;
+    background-size: cover;
+}

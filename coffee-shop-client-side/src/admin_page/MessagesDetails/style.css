@@ -1,0 +1,5 @@
+.message-bg{
+    background-image: linear-gradient(to right, rgba(255, 255, 255, .6), rgba(255, 255, 255, .6)),url(../../assets/image/messageBG.png);
+    background-position: center;
+    background-size: cover;
+}
