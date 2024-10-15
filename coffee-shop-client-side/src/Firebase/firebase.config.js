@@ -4,10 +4,10 @@ import { getAuth } from "firebase/auth";
 
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
-
+// aip = AIzaSyBTEsAmJwRqTz-LRmntVvid0AFOIBZtaeU
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBTEsAmJwRqTz-LRmntVvid0AFOIBZtaeU",
+  apiKey: "",
   authDomain: "coffee-shope-358af.firebaseapp.com",
   projectId: "coffee-shope-358af",
   storageBucket: "coffee-shope-358af.appspot.com",
