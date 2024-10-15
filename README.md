@@ -24,7 +24,7 @@ You can view the design of the project on Figma:
 ## Demo Video
 
 Watch the project in action on YouTube:
-- [Site View Video](https://www.youtube.com/watch?v=ep52mT-w_TI&list=RDJigu5xgCZ0Y&index=8)
+- [Site View Video](https://drive.google.com/drive/folders/1_WvZqVO1VQ9x5O7euFCvcbT7EFL4FGYg?usp=drive_link)
 
 ## Project Structure
 
