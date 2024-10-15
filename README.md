@@ -24,7 +24,10 @@ You can view the design of the project on Figma:
 ## Demo Video
 
 Watch the project in action on YouTube:
-- [Site View Video](https://drive.google.com/drive/folders/1_WvZqVO1VQ9x5O7euFCvcbT7EFL4FGYg?usp=drive_link)
+-[Customer Side View](https://youtu.be/BOlRqK2DUPI)
+-[General Employee Side View](https://www.youtube.com/watch?v=2sDW-JXR_fY)
+-[Delivery Man Side View](https://www.youtube.com/watch?v=ADNuk_wWILc)
+-[Admin or Manager Side View](https://youtu.be/kVp0YHPXGVM)
 
 ## Project Structure
 
