@@ -23,7 +23,7 @@ You can view the design of the project on Figma:
 
 ## Demo Video
 
-Watch the project in action on YouTube:
+Watch the project in action on YouTube: <br>
 -[Customer Side View](https://youtu.be/BOlRqK2DUPI) <br>
 -[General Employee Side View](https://www.youtube.com/watch?v=2sDW-JXR_fY) <br>
 -[Delivery Man Side View](https://www.youtube.com/watch?v=ADNuk_wWILc) <br>
